@@ -1,6 +1,6 @@
 # aliyun-signin-action
 
-利用 Github Actions 定时任务每天签到阿里云，领取礼包。（转https://github.com/lovezsh/aliyun-signin-action/tree/main）
+利用 Github Actions 定时任务每天签到阿里云，领取礼包。(转https://github.com/lovezsh/aliyun-signin-action/tree/main)
 
 基于 https://github.com/ImYrS/aliyun-auto-signin 仓库，参考链接 https://hostloc.com/thread-1147588-1-6.html?d=1
 
@@ -27,6 +27,8 @@ jobs:
 3. 在仓库的 Settings -> Secrets and Variables -> Actions 中点击 New repository secret 添加 Secrets和相应的值。
 
 ![image](https://user-images.githubusercontent.com/65840178/224957880-cac76f91-c3f9-4e02-9177-c3dbac804b94.png)
+
+###################################################################################################################
 
 # 阿里云盘自动签到(转https://github.com/V-Official-233/Aliyun-auto-signin-on-action)
 本项目旨在使用Github actions来为阿里云盘进行自动签到  
